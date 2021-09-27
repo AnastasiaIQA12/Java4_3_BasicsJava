@@ -12,12 +12,10 @@
 
 Скриншоты для решения задачи (важно - это не реальный сервис!):
 
+<img width="1165" alt="one-year" src="https://user-images.githubusercontent.com/72652840/134963552-f6839af3-3c55-4157-9712-865b5d81866d.png">
 
-![](pic/one-year.png)
+<img width="1160" alt="two-years" src="https://user-images.githubusercontent.com/72652840/134963565-511d0576-641a-4dca-8186-b649fbe0eef3.png">
 
-![](pic/two-years.png)
-
-![](pic/three-years.png)
-
+<img width="1161" alt="three-years" src="https://user-images.githubusercontent.com/72652840/134963571-faaad572-c907-4828-8d61-4ee1794dfb4a.png">
 
 
